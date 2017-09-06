@@ -6,7 +6,7 @@ what's in the file!
 
 <a href="http://www.usf.edu" /href>
 
-[USF website sucks] (http://www.usf.edu)
+[USF website sucks](http://www.usf.edu)
 
 
 k
